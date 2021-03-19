@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "db": "C:/\"Program Files\"/MongoDB/bin/mongod.exe --dbpath=C:/mongodb-data"
   },
   "keywords": [],
   "author": "",
